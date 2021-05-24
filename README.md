@@ -8,3 +8,5 @@
  and  
  
  https://ncses.nsf.gov/pubs/nsf21321/data-tables
+ 
+ but was hand carved from the excel spreadsheet to be easily read into R. 
